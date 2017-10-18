@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include partials/head.ejs %>
+    </head>
+    <body>
+        <% include partials/header.ejs %>
+        
+        <div class="title">
+            <h4><%= course_name %></h4>
+            <h1><%= title %></h1>
+        </div>
+        
+        <div class="container2">
+            <div class="video">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/by3yRdlQvzs" frameborder="0" allowfullscreen>
+            </iframe>
+            </div>
+            <div class="information">
+                <h1>Description</h1>
+                <p><%= movie.description %></p>
+                <h1>Difficulty</h1>
+                <ul class="difficulty_list">
+                    <% for (var i = 0; i < movie.difficulty; i++) { %> 
+                        <li><i class="fa fa-star fa-2x" aria-hidden="true"></i></li>
+                    <% } %>
+                </ul>  
+                <h1>Exercises</h1>
+                
+            </div>
+        </div>
+        
+
+        <% include partials/scripts.ejs %>
+    </body>
+</html>

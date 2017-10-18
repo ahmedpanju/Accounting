@@ -1,0 +1,225 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+
+.navbar_top {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #0088cc;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.navbar_top li {
+    float: left;
+}
+
+.navbar_top li a {
+    display: block;
+    color: white;
+    cursor: pointer;
+    font-size: 25px;
+    padding: 25px;
+    font-family: sans-serif;
+    font-weight: 400;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.navbar_top li a:hover {
+    background-color: #0077b3;
+}
+
+.container {
+    width: 100%;
+    margin-top: 50px;
+    position: relative;
+}
+
+.content {
+    width: 90%;
+    margin: auto;
+    height: auto;
+}
+
+.content {
+    margin-top: 75px;
+}
+
+.content .row {
+    position: relative;
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.content .row .panel {
+    width: 25%;
+    height: 200px;
+    border: 2px solid white;
+    background-color: #006699;
+    cursor: pointer;
+    border-radius: 10px;
+    float: left;
+    margin-left: 45px;
+    margin-bottom: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.content .row .panel h4 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.content .row .panel2 {
+    width: 25%;
+    height: 200px;
+    border: 2px solid white;
+    background-color: #ff6666;
+    cursor: pointer;
+    border-radius: 10px;
+    float: left;
+    margin-left: 45px;
+    margin-bottom: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.content .row .panel2 h4 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.content .row .panel3 {
+    width: 25%;
+    height: 200px;
+    border: 2px solid white;
+    background-color: #248f24;
+    cursor: pointer;
+    border-radius: 10px;
+    float: left;
+    margin-left: 45px;
+    margin-bottom: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.content .row .panel3 h4 {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+.title h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    border-bottom: 2px solid black;
+}
+
+.title h4 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    color: #007399;
+}
+
+.container2 {
+    width: 95%;
+    height: 60vh;
+    margin: auto;
+    margin-top: 30px;
+    position: relative;
+}
+
+.video {
+    position: absolute;
+    width: 60%;
+    height: 60vh;
+    left: 0;
+}
+
+.video iframe {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.information {
+    position: absolute;
+    width: 40%;
+    height: 60vh;
+    right: 0;
+}
+
+.information h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.information p {
+    width: 90%;
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+}
+
+.information .difficulty_list {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.information .difficulty_list li {
+    float: left;
+    margin-right: 10px;
+}
+
+.information .difficulty_list li i {
+    color: #e6b800;
+}
+
+
+
+@media only screen and (max-width: 500px) {
+    .content .row .panel{
+        width: 100%;
+        float: none;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    
+     .content .row .panel2{
+        width: 100%;
+        float: none;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+    
+     .content .row .panel3{
+        width: 100%;
+        float: none;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+}

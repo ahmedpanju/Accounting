@@ -1,0 +1,227 @@
+{
+  "movies": [{
+    "title" : "The Purpose and Use of Financial Statements",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "1",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+
+  {
+    "title" : "Financial Statements – Framework Presentation and Usage",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "2",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+
+  {
+    "title" : "The Accounting Information System",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "3",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+
+  {
+    "title" : "Accrual Accounting Concepts",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "4",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum..",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+
+  {
+    "title" : "Reporting and Analyzing Receivables",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "5",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Reporting and Revenue Transaction",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "6",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Internal Control and Cash",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "7",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  }, 
+             
+  {
+    "title" : "Merchandising Operations",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "8",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  }, 
+             
+  {
+    "title" : "Reporting and Analyzing Inventory",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "9",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  }, 
+             
+  {
+    "title" : "Introduction to Case Analysis",
+    "course_name" : "Introductory Financial Accounting I",
+    "episode_number" : "10",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  }, 
+              
+  {
+    "title" : "Reporting and Analyzing Long Lived Assets",
+    "course_name" : "Introductory Financial Accounting II",
+    "episode_number" : "11",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  }, 
+             
+  {
+    "title" : "Reporting and Analyzing Liabilities",
+    "course_name" : "Introductory Financial Accounting II",
+    "episode_number" : "12",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+ {
+    "title" : "Reporting and Shareholders' Equity",
+    "course_name" : "Introductory Financial Accounting II",
+    "episode_number" : "13",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Cash Flow Statement",
+    "course_name" : "Introductory Financial Accounting II",
+    "episode_number" : "14",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+
+  {
+    "title" : "Performance Measurement",
+    "course_name" : "Introductory Financial Accounting II",
+    "episode_number" : "15",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Investment in Equity Securities",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "16",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Business Combination",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "17",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Consolidated Statements on Date of Acquisition",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "18",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Consolidated Subsequent to Acquisition Date",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "19",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Intercompany Inventory and Land Profit",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "20",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Intercompany Profit in Depreciable Assets and Intercompany Bondholdings",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "21",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Consolidated Cash Flow and Ownership Issues",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "22",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Foreign Currency Transactions",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "23",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+             
+  {
+    "title" : "Translation and Consolidation of Foreign Operations",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "24",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  },
+
+  {
+    "title" : "Accounting for Not-For-Profit Organizations",
+    "course_name" : "Advanced Financial Accounting",
+    "episode_number" : "25",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et mauris quam. Vivamus sit amet efficitur arcu, non lacinia justo. Mauris pretium eget felis et tristique. Nam aliquet ut libero vitae vestibulum.",
+    "difficulty" : "4",
+    "exercises:" : ["3", "Exercise1", "Exercise2", "Exercise3"]
+  }]
+
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <% include partials/head.ejs %>
+    </head>
+    <body>
+        <% include partials/header.ejs %>
+        
+        <div>
+            <h1 style="font-size: 90px; font-family: 'Roboto', sans-serif; margin: auto; text-align: center; width: 80%; margin-top: 30px;">Lessons<hr></h1>
+            <div class="content">
+                <div class="row">
+                    <% for (var i = 0; i < movies.length; i++) { %> 
+                        <% if(movies[i].episode_number >= 1 && movies[i].episode_number <= 10) { %>
+                            <a href="/star_wars_episode/<%= movies[i].episode_number %>"><div class="panel"><h4 style="margin: 0; margin: auto; margin-top: 10px;"><%= movies[i].course_name %><hr></h4><h4 style="margin: 0 auto;"><%= movies[i].title %></h4></div></a>
+                        <% } else if (movies[i].episode_number >= 11 && movies[i].episode_number <= 15) { %>
+                             <a href="/star_wars_episode/<%= movies[i].episode_number %>"><div class="panel2"><h4 style="margin: 0; margin: auto; margin-top: 10px;"><%= movies[i].course_name %><hr></h4><h4 style="margin: 0 auto;"><%= movies[i].title %></h4></div></a>
+                        <% } else if (movies[i].episode_number >= 16 && movies[i].episode_number <= 25) { %>
+                            <a href="/star_wars_episode/<%= movies[i].episode_number %>"><div class="panel3"><h4 style="margin: 0; margin: auto; margin-top: 10px;"><%= movies[i].course_name %><hr></h4><h4 style="margin: 0 auto;"><%= movies[i].title %></h4></div></a>
+                        <% } %>
+                    <% } %>
+                </div>
+            </div>
+        </div>
+
+        <% include partials/scripts.ejs %>
+    </body>
+</html>
